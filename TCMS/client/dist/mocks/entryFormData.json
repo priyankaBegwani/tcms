@@ -1,0 +1,35 @@
+{
+  "success":true,
+  "data":{
+    "parties":[
+      {
+        "value": "1",
+        "label": "Amantran Bastralaya"
+      },{
+        "value": "2",
+        "label": "Bhansali enterprises"
+      },{
+        "value": "3",
+        "label": "Swapan Kr Saha"
+      },{
+        "value": "4",
+        "label": "Sumit Begwani"
+      }
+    ],
+    "transporters":[
+      {
+        "value": "1",
+        "label": "Amantran transporter"
+      },{
+        "value": "2",
+        "label": "Bhansali transporter"
+      },{
+        "value": "3",
+        "label": "Swapan Kr"
+      },{
+        "value": "4",
+        "label": "Sumit"
+      }
+    ]
+  }
+}
